@@ -1,0 +1,6 @@
+Warehouse,Avg_Delivery_Time_Days,Avg_DistanceKilometers,Order_ID Count Total orders,Delayed Sum Total Delayed,Delay_Percentage,Performance_Category
+Dindigul,4.00885836096637,162.750098979682,21110,4194,19.86736,Good Performance
+Tiruchirappalli,3.97155559804953,166.866766851254,20918,4247,20.30309,Moderate Performance
+Thoothukudi,3.98823473373345,248.963161356019,20994,4272,20.34867,Moderate Performance
+Tirunelveli,3.99652810805669,256.197741903096,21026,4155,19.76125,Good Performance
+Chennai,4.01460481099656,338.415836085732,20952,4147,19.79286,Good Performance
