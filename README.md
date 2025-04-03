@@ -16,7 +16,8 @@ This project was implemented using **Alteryx**, where a workflow was designed to
 
 ## Alteryx Workflow Steps:
 
-**Workflow:** ![image](https://github.com/user-attachments/assets/99cf48fc-61e1-43b7-96a8-388335114bd1)
+**Workflow:** ![image](https://github.com/user-attachments/assets/0e2c0021-8b86-49ca-ae4b-d7099381a212)
+
 
 
 ### 1. **Data Input and Cleaning**
@@ -48,7 +49,7 @@ This project was implemented using **Alteryx**, where a workflow was designed to
 - **Formula Tool** used to create new calculated columns:
 
   
-  ![image](https://github.com/user-attachments/assets/46fb8d34-4be1-4cff-ba1b-1c4caee490e9)
+![image](https://github.com/user-attachments/assets/ecf68552-d969-48b7-a559-57204bd4d3b9)
 
   - `Delayed Percentage = (Delayed Orders / Total Orders) * 100`
   - `Performance Category` based on delivery efficiency 
